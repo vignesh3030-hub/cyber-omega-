@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Omega - Cloud Insider Threat Early Warning System",
+  "description": "A sophisticated SOC dashboard prototype for early detection of insider threats in cloud environments through behavioral analysis and AI-driven risk scoring.",
+  "requestFramePermissions": []
+}
